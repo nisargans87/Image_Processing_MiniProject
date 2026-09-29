@@ -1,4 +1,4 @@
-# Image Processing Mini Project
+# PixelVista: Interactive Image Processing & Visualization 
 
 A Python desktop application for interactive image processing, visual filters, edge-based visualization, and circular sticker creation. The project combines OpenCV operations with a Tkinter interface and a Matplotlib-based rotating surface view.
 
